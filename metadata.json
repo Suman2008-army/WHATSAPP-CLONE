@@ -1,0 +1,6 @@
+{
+  "name": "Message Karo",
+  "description": "A modern WhatsApp clone web application featuring real-time messaging, status stories, dark/light theme, voice notes, media sharing, and profile settings.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
